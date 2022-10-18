@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/JJS/Notification/alarmCodelab/app/src/main/res/layout/activity_main.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/JJS/Notification/alarmCodelab/app/src/main/res/layout/fragment_eggtimer.xml" value="0.1" />
         <entry key="..\:/Users/JJS/alarmCodelab/app/src/main/res/layout/activity_main.xml" value="0.2546875" />
         <entry key="..\:/Users/JJS/alarmCodelab/app/src/main/res/layout/fragment_eggtimer.xml" value="0.2682291666666667" />
       </map>
